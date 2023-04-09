@@ -5,7 +5,7 @@
 - 🐱‍💻 Desenvolvedor Java
 - 🌱 Estudando Java e SQL
 
-![Ericson GitHub stats](https://github-readme-stats.vercel.app/api?username=EricsonBraga&show_icons=true&count_private=true&theme=onedark)
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
